@@ -5,6 +5,10 @@
   <artifactId>ingsw</artifactId>
   <packaging>jar</packaging>
   <version>1.0-SNAPSHOT</version>
+  <properties>
+    <maven.compiler.source>15</maven.compiler.source>
+    <maven.compiler.target>15</maven.compiler.target>
+  </properties>
   <name>ingsw</name>
   <url>http://maven.apache.org</url>
   <dependencies>
